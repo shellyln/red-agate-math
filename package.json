@@ -3,7 +3,16 @@
   "private": false,
   "version": "0.0.5",
   "description": "red-agate math shared library.",
-  "keywords": [],
+  "keywords": [
+    "finite field",
+    "galois field",
+    "finite extension field",
+    "polynomial",
+    "Reed-Solomon",
+    "RS",
+    "BCH",
+    "CRC32"
+  ],
   "main": "./bin/index.js",
   "module": "./modules/index.js",
   "modules.root": "./modules",
